@@ -12,7 +12,8 @@ Please feel free to contribute by creating a Pull Request. 🚀
 
 
 
-
+## Online Platforms
+* [Frontend AI](https://webcrumbs.org/frontend-ai) - Build components online from prompts or images. Export as React, Angular, Vue, Svelte, HTML, Tailwind or CSS. Free with no login required.
 
 ## APIs and SDKs
 * [OpenAI API suite](https://beta.openai.com/docs/libraries/node-js-library) - npm library for interacting with OpenAI's AI models like GPT-3, Codex and DALL·E.
